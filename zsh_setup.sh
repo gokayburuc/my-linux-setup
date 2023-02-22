@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## ZSH INSTALLATION
 
 ## ZSH CONFIGURATIONS 

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## SQL SETUPS 
 sudo apt install sqlitebrowser
 sudo apt install sqlite3

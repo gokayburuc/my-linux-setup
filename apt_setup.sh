@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## SUDO - APT REQUIRED SETUP 
 sudo apt install curl
 sudo apt install zsh

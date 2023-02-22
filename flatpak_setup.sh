@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## FLATPAK SETUPS 
 sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak
