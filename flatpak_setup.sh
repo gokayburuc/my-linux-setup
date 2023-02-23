@@ -9,3 +9,8 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 flatpak install flathub com.github.phase1geo.minder
 flatpak install flathub md.obsidian.Obsidian
+flatpak install flathub net.ankiweb.Anki
+flatpak install flathub com.calibre_ebook.calibre
+flatpak install flathub net.sourceforge.Klavaro
+flatpak install flathub com.gitlab.tipp10.tipp10
+
