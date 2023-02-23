@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 ## SYSTEM UPDATE AND UPGRADE
 sudo apt update 
 sudo apt full-upgrade
