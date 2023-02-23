@@ -21,6 +21,34 @@ cd my-linux-setup/
 bash first-setup.sh
 ```
 
+
+## FOLDERTREE 
+
+Here the folder tree of project
+
+
+```bash 
+.
+├── apt_setup.sh
+├── first-setup.sh
+├── flatpak_setup.sh
+├── go_setup.sh
+├── lua_setup.sh
+├── neovim_setup.sh
+├── nodejs_setup.sh
+├── python_setup.sh
+├── README.md
+├── ruby_setup.sh
+├── rust_setup.sh
+├── snap_setup.sh
+├── sqlite_setup.sh
+├── system_setup.sh
+└── zsh_setup.sh
+
+```
+
+
+
 ## TO-DO  
 
 - [x] Seperate File into the Specific Files
